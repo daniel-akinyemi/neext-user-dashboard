@@ -12,7 +12,7 @@ const Navbar = () => {
         width={80}
         />
       </div>
-      <div className="space-x-8">
+      <div className="space-x-8 font-bold">
         <Link href="/">Home</Link>
         <Link href="/login">Login</Link>
       </div>
