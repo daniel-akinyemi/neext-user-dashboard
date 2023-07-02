@@ -1,3 +1,7 @@
+This project is a software that allows users to add and read CSV files from their dashboard each user session is private 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
