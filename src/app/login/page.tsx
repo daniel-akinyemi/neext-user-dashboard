@@ -6,8 +6,10 @@ const page = () => {
       <div className='bg-blue-500 h-24 text-white w-1/2 flex flex-col items-center justify-center space-y-8'>
         Image Here
       </div>
-      <div className='bg-blue-500 h-24 text-white w-1/2 flex flex-col items-center justify-center space-y-8'>
-        Login Component goes here
+      <div className='bg-gray-200 h-96 w-1/2 flex flex-col items-center justify-center space-y-8'>
+        <input type='text' placeholder='Username' className='p-4 rounded-md'/>
+        <input type='text' placeholder='Password' className='p-4 rounded-md'/>
+        <button className='px-24 py-4 rounded-md bg-gray-700 text-white'>Login</button>
       </div>
     </section>
   )
